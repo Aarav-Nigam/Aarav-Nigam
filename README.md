@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aarav Nigam</h1>
 <h3 align="center">A crazy problem solver</h3>
-![](https://github.com/Aarav-Nigam/Aarav-Nigam/blob/main/xero-code.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarav-nigam&label=Profile%20views&color=0e75b6&style=flat" alt="aarav-nigam" /> </p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Aarav-Nigam/Aarav-Nigam/blob/main/xero-code.gif" alt="Image">
+    </td>
+    <td>
+      <div id="trophy">
+        <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarav-nigam&label=Profile%20views&color=0e75b6&style=flat" alt="aarav-nigam" /> </p>
+        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarav-nigam" alt="aarav-nigam" /></a> </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarav-nigam" alt="aarav-nigam" /></a> </p>
 
 - 🌱 I’m currently learning **Practical Applications of Reinforcement Learning**
 
