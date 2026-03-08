@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/Aarav-Nigam/Aarav-Nigam/blob/main/xero-code.gif" width="380" alt="coding" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=aarav-nigam&label=Profile+Views&color=6A9FB5&style=flat-square" alt="profile views" />
   &nbsp;
   <a href="https://linkedin.com/in/aarav-nigam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -25,8 +29,8 @@
 
 ### About Me
 
-- **Data Scientist @ Swiggy** — working on **Instamart Search** (query understanding, LLM agents, catalog ops)
-- Building LLM evaluation pipelines and migrating production inference at scale (GPT → Gemini)
+- **Data Scientist @ Swiggy** — on a mission to make **search super awesome** with LLMs and ML
+- Love turning messy data into intelligent systems that actually work at scale
 - Currently exploring **Practical Applications of Reinforcement Learning**
 - Big anime fan ⚡
 
